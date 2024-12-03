@@ -10,12 +10,12 @@
     "prepare": "ts-patch install && typia patch && npx bunpare"
   },
   "devDependencies": {
-    "@ryoppippi/unplugin-typia": "^1.0.7",
+    "@ryoppippi/unplugin-typia": "^1.1.0",
     "@types/bun": "latest",
     "ts-patch": "^3.2.1",
     "typescript": "~5.7.2"
   },
   "dependencies": {
-    "typia": "^6.12.2"
+    "typia": "^7.0.1"
   }
 }
